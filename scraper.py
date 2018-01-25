@@ -30,3 +30,4 @@ root.cssselect("div[align='left']")
 # called "data.sqlite" in the current working directory which has at least a table
 # called "data".
 lisylist = ["p1","p2","p3"]
+print lisylist
